@@ -78,6 +78,10 @@ body, html {
     font-size: 26px;
 }
 
+.heading-style:hover {
+    color: hsl(47, 88%, 63%);
+}
+
 .char-section {
     display: flex;
     align-items: center;
