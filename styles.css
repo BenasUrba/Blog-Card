@@ -99,9 +99,18 @@ body, html {
 }
 
 
+@media (max-width: 1440px) {
+
+    .blog-card {
+        width: 25%;
+    }
+
+
+}
+
 @media (max-width: 500px) {
     .blog-card {
-        width: 70%;
+        width: 60%;
     }
 
     .heading-style {
@@ -129,13 +138,4 @@ body, html {
 
         font-size: 14px;
     }
-}
-
-@media (max-width: 1440px) {
-
-    .blog-card {
-        width: 25%;
-    }
-
-
 }
